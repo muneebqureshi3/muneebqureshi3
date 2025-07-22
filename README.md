@@ -52,6 +52,7 @@ Currently working at **HITAI (Remote)** where I develop real-time video analysis
 
 - 🚘 **Automatic License Plate Recognition (ALPR)**
   - YOLOv8 + EasyOCR + SORT Tracker + Interpolation.
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/14Jq0Lot5T_ERgGV9IkOYqmzTE3H2KsW8/view?usp=sharing)  
 - 🛍️ **Shoplifting Detection System**
   - Real-time action analysis from surveillance footage using pose & motion features.
 - ⚽ **Futsal Sports Analytics**
