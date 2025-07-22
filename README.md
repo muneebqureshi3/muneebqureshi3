@@ -55,8 +55,11 @@ Currently working at **HITAI (Remote)** where I develop real-time video analysis
   - 📽️ [Watch Demo Video](https://drive.google.com/file/d/14Jq0Lot5T_ERgGV9IkOYqmzTE3H2KsW8/view?usp=sharing)  
 - 🛍️ **Shoplifting Detection System**
   - Real-time action analysis from surveillance footage using pose & motion features.
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1f9J_paE8a3jILGdFvkKkaMAWmG_l-B64/view?usp=sharing)  
 - ⚽ **Futsal Sports Analytics**
   - Real-time goal counting, player tracking, and performance dashboards.
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1YTv6dgYLpCGQ6eoWnicCepot6ZhBJr_G/view?usp=sharing)  
+
 
 
 
