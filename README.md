@@ -58,7 +58,12 @@ Currently working at **HITAI (Remote)** where I develop real-time video analysis
   - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1f9J_paE8a3jILGdFvkKkaMAWmG_l-B64/view?usp=sharing)  
 - ⚽ **Futsal Sports Analytics**
   - Real-time goal counting, player tracking, and performance dashboards.
-  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1YTv6dgYLpCGQ6eoWnicCepot6ZhBJr_G/view?usp=sharing)  
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1YTv6dgYLpCGQ6eoWnicCepot6ZhBJr_G/view?usp=sharing)
+- ✋ **Hand Gesture & Sign Language Recognition**
+  - Real-time recognition of hand gestures and sign language using CNNs and OpenCV.
+  - Enables gesture-based interaction and communication support through video stream analysis.
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1Z-JTLBi8Xnf46fxyDIDQ7AuXLU7BR3GP/view?usp=sharing)
+  
 
 
 
