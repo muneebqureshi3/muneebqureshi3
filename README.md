@@ -63,7 +63,11 @@ Currently working at **HITAI (Remote)** where I develop real-time video analysis
   - Real-time recognition of hand gestures and sign language using CNNs and OpenCV.
   - Enables gesture-based interaction and communication support through video stream analysis.
   - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1Z-JTLBi8Xnf46fxyDIDQ7AuXLU7BR3GP/view?usp=sharing)
-  
+- 📱 **Pig Fat E-Code Detection App**
+  - AI-powered mobile app for real-time ingredient scanning using camera OCR and NLP.
+  - Detects presence of pig-derived E-codes in food items to aid halal-conscious consumers.
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1DeMqJ62DhyNO0hi8imniZOTJaAlYrJ4_/view?usp=sharing)  
+
 
 
 
