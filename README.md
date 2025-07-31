@@ -66,7 +66,13 @@ Currently working at **HITAI (Remote)** where I develop real-time video analysis
 - 📱 **Pig Fat E-Code Detection App**
   - AI-powered mobile app for real-time ingredient scanning using camera OCR and NLP.
   - Detects presence of pig-derived E-codes in food items to aid halal-conscious consumers.
-  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1DeMqJ62DhyNO0hi8imniZOTJaAlYrJ4_/view?usp=sharing)  
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1DeMqJ62DhyNO0hi8imniZOTJaAlYrJ4_/view?usp=sharing)
+- 🙂 **Face Emotion Detection System**
+  - Real-time facial emotion recognition using deep learning (CNNs) and OpenCV.
+  - Detects key emotions such as happiness, sadness, anger, surprise,
+  - and more from live video feeds to enhance human-computer interaction and emotional analytics.
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1rW779VYtaETwb7Vz2wpP9VXNPwdK39fA/view?usp=sharing)  
+ 
 
 
 
