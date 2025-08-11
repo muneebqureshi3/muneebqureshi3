@@ -71,7 +71,20 @@ Currently working at **HITAI (Remote)** where I develop real-time video analysis
   - Real-time facial emotion recognition using deep learning (CNNs) and OpenCV.
   - Detects key emotions such as happiness, sadness, anger, surprise,
   - and more from live video feeds to enhance human-computer interaction and emotional analytics.
-  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1rW779VYtaETwb7Vz2wpP9VXNPwdK39fA/view?usp=sharing)  
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1rW779VYtaETwb7Vz2wpP9VXNPwdK39fA/view?usp=sharing)
+- 🚦 **People & Vehicle Counter System**
+  - YOLOv8 + ByteTrack/StrongSORT tracker for real-time detection and tracking.
+  - Counts people and vehicles entering or exiting premises using boundary line crossing logic.
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1nkGsOvyWNXV1M_y8rqMHPO12QJrhY4md/view?usp=sharing)
+- 🛠️ **Vehicle Defects Detection System**
+  - YOLOv4-based defect detection with inference via OpenCV-DNN and Keras.
+  - Flask REST APIs with Auth0 authentication for secure defect analysis endpoints.
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1uh1e0C9J8mO9inAHrEsRzNI-4USEngX6/view?usp=sharing)
+- 🚦 **Traffic Analysis Computer Vision**
+  - Real-time vehicle counting, density measurement, and driving violation detection.
+  - Driving path tracking and traffic heatmap generation for enhanced traffic management.
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1E6LxwGGBd5Rx-0HQ0PhU5yFJ3y4XTwau/view?usp=sharing)
+
  
 
 
