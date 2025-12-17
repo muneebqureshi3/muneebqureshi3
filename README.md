@@ -84,6 +84,12 @@ Currently working at **HITAI (Remote)** where I develop real-time video analysis
   - Real-time vehicle counting, density measurement, and driving violation detection.
   - Driving path tracking and traffic heatmap generation for enhanced traffic management.
   - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1E6LxwGGBd5Rx-0HQ0PhU5yFJ3y4XTwau/view?usp=sharing)
+- 🔥 **Real-Time Fire Detection & Alert System**
+
+  - End-to-end computer vision system for real-time fire detection with temporal validation to reduce false positives.
+  - Automatically captures pre- and post-event video context and sends instant WhatsApp alerts with image and video evidence.
+  - Built using YOLO-based detection, OpenCV video pipelines, FFmpeg for media processing, and cloud-based automation.
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/16uoEnyABuMP2ufpWggthgGiTU_rjXE52/view?usp=drive_link)
 
  
 
@@ -96,7 +102,6 @@ Currently working at **HITAI (Remote)** where I develop real-time video analysis
 ### 🤝 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/muneebqureshi313/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/muneebqureshi313)
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge)](mailto:muneebqureshi313@gmail.com)
 
 ---
