@@ -85,7 +85,6 @@ Currently working at **HITAI (Remote)** where I develop real-time video analysis
   - Driving path tracking and traffic heatmap generation for enhanced traffic management.
   - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1E6LxwGGBd5Rx-0HQ0PhU5yFJ3y4XTwau/view?usp=sharing)
 - 🔥 **Real-Time Fire Detection & Alert System**
-
   - End-to-end computer vision system for real-time fire detection with temporal validation to reduce false positives.
   - Automatically captures pre- and post-event video context and sends instant WhatsApp alerts with image and video evidence.
   - Built using YOLO-based detection, OpenCV video pipelines, FFmpeg for media processing, and cloud-based automation.
