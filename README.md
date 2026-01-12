@@ -89,6 +89,13 @@ Currently working at **HITAI (Remote)** where I develop real-time video analysis
   - Automatically captures pre- and post-event video context and sends instant WhatsApp alerts with image and video evidence.
   - Built using YOLO-based detection, OpenCV video pipelines, FFmpeg for media processing, and cloud-based automation.
   - 📽️ [Watch Demo Video](https://drive.google.com/file/d/16uoEnyABuMP2ufpWggthgGiTU_rjXE52/view?usp=drive_link)
+- 📄 **AI Research Paper Comparison Engine (GenAI)**
+  - Research-grade GenAI system for **structured comparison of machine learning papers**, going beyond PDF Q&A or summarization.
+  - Implements section-aware PDF parsing, **implicit assumption extraction**, methodology normalization, and cross-paper reasoning (e.g., YOLO vs DETR, CNNs vs Transformers).
+  - Enables side-by-side comparison of architectures, learning paradigms, inductive biases, and deployment trade-offs via a Flask dashboard.
+  - Built with Python, LLM APIs, defensive prompt engineering, and a production-ready backend pipeline.
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/148MQE6hVMvGBdDbat4D6I7RTCPgXepjG/view?usp=sharing)
+
 
  
 
