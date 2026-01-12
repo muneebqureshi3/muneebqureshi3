@@ -1,7 +1,8 @@
-<h1>Hi, I'm Muhammad Muneeb ur Rehman! 👋<br/>
-<a href="https://www.linkedin.com/in/muneebqureshi313/">Computer Vision Engineer</a> | 
-<a href="https://github.com/muneebqureshi313">ML & AI Enthusiast</a> | 
+<h1>
+  Hi, I'm Muhammad Muneeb ur Rehman! 👋<br/>
+  Computer Vision Engineer | Applied AI, Data Science & GenAI Systems
 </h1>
+
 
 ---
 
