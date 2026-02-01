@@ -96,6 +96,10 @@ Currently working at **HITAI (Remote)** where I develop real-time video analysis
   - Enables side-by-side comparison of architectures, learning paradigms, inductive biases, and deployment trade-offs via a Flask dashboard.
   - Built with Python, LLM APIs, defensive prompt engineering, and a production-ready backend pipeline.
   - 📽️ [Watch Demo Video](https://drive.google.com/file/d/148MQE6hVMvGBdDbat4D6I7RTCPgXepjG/view?usp=sharing)
+- 📄 **Production-Ready SaaS for Research Paper Comparison & Analysis**
+  - AI-powered academic paper comparison using semantic analysis.
+  - Full-stack SaaS with authentication, PDF ingestion, structured comparison, and subscription billing.
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1VH1uQQIfqj6mKN_8NOJT3KCI3eQdKJCQ/view?usp=sharing)
 
 
  
