@@ -100,7 +100,7 @@ Currently working at **HITAI (Remote)** where I develop real-time video analysis
   - AI-powered academic paper comparison using semantic analysis.
   - Full-stack SaaS with authentication, PDF ingestion, structured comparison, and subscription billing.
   - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1VH1uQQIfqj6mKN_8NOJT3KCI3eQdKJCQ/view?usp=sharing)
-- 🔥 **Real-Time Fire Detection & Alert System**  
+- 🔥 **End to End Real-Time Fire Detection & Alert System**  
   - YOLOv8-based real-time fire detection with temporal validation to reduce false positives.  
   - Automatically captures pre- and post-event context and sends instant WhatsApp alerts with image and video evidence.  
   - Built using FastAPI, OpenCV, FFmpeg, and cloud automation for enterprise-grade CCTV monitoring.  
