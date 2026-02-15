@@ -105,6 +105,13 @@ Currently working at **HITAI (Remote)** where I develop real-time video analysis
   - Automatically captures pre- and post-event context and sends instant WhatsApp alerts with image and video evidence.  
   - Built using FastAPI, OpenCV, FFmpeg, and cloud automation for enterprise-grade CCTV monitoring.  
   - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1Ku88yDwI5jiN_ibazNK5pf_0BzXtGalI/view?usp=sharing)
+- 🛡️ **Real-Time Intrusion Detection & Surveillance System**
+  - YOLOv8-based real-time person detection with custom polygon zone marking for restricted area monitoring.
+  - Automatically records intrusion clips with pre/post buffering, sends live alerts via WebSocket, and provides session-based event management.
+  - Modern dark-themed dashboard with live video feed, metrics, alert history, and clip playback — supports webcam, RTSP, and video uploads.
+  - Built using FastAPI, OpenCV, Ultralytics, imageio, and vanilla JavaScript with WebSocket for real-time communication.
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1-6yaswMi2neCMpsgzV7_l7t_wIVuEn10/view?usp=sharing)
+
 
 
 
