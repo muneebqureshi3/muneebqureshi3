@@ -111,6 +111,47 @@ Currently working at **HITAI (Remote)** where I develop real-time video analysis
   - Modern dark-themed dashboard with live video feed, metrics, alert history, and clip playback — supports webcam, RTSP, and video uploads.
   - Built using FastAPI, OpenCV, Ultralytics, imageio, and vanilla JavaScript with WebSocket for real-time communication.
   - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1-6yaswMi2neCMpsgzV7_l7t_wIVuEn10/view?usp=sharing)
+- 🏋️ **AI Fitness Coach Real-Time Pose Estimation & Exercise Analysis Platform**
+  - MediaPipe-based real-time pose tracking and exercise analysis for live webcam feeds and recorded video streams.
+  - Automatically detects 7 exercises (push-ups, squats, planks, lunges, deadlifts, shoulder press, jumping jacks), tracks reps, scores form in real time, and flags injury risks.
+  - Features auto-detection, fatigue tracking, calorie estimation, guided workouts, side-by-side comparison, and an interactive progress dashboard with personal bests.
+  - Built using Python, FastAPI, OpenCV, MediaPipe, WebSocket for real-time streaming, and Chart.js for analytics visualization.
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1WFmCmZxAxSvEd6tKfyfqHzAQbq4d5ASB/view?usp=sharing)
+- 🎾 **Padel Match Video Analytics | End-to-End CV Pipeline**
+  - Full computer vision pipeline for broadcast padel match analysis using YOLOv8 + ByteTrack for multi-player tracking and a custom YOLO-Pose model for 13-point pose estimation.
+  - Features TrackNet + InpaintNet heatmap-based ball tracking with temporal inpainting to reconstruct missing ball detections across occluded frames.
+  - Maps player coordinates to a 2D court minimap via homographic projection to generate distance covered, positional heatmaps, and velocity curves.
+  - Delivers annotated match videos and an interactive Streamlit dashboard for comprehensive post-match statistics.
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1kpwX9nBf3JXJxYr2rTlgPz_sMlnZpY7A/view?usp=sharing)
+- 🛍️ **Real-Time AI Shoplifting & Suspicious Activity Detection**
+  - Real-time AI surveillance pipeline built for retail loss prevention to detect shoplifting and suspicious behavior from live CCTV feeds.
+  - Automatically detects and tracks individuals, flags suspicious actions with confidence scores, and logs incidents to a live dashboard with alert logs and event timelines.
+  - Built using YOLO, OpenCV, PyTorch, and FastAPI, containerized with Docker for low-latency cloud and edge deployment.
+  - Transforms passive CCTV footage into an active, automated real-time monitoring system.
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/15eZ9JWm6hAscy41ajP8X9TOx3iPSue2H/view?usp=sharing)
+- 🔫 **AI-Powered Gun Detection & Autonomous Security Response System**
+  - End-to-end autonomous security pipeline combining real-time YOLO weapon detection and tracking with an Agentic AI response system.
+  - Integrates a Gemini-powered LLM agent with tool-calling to describe scene context, ground alerts in camera locations, and autonomously notify security or dispatch with auto-escalation protocols.
+  - Features a modern React dashboard with real-time WebSocket video streaming, metrics, and incident logging powered by a FastAPI backend.
+  - Transforms passive bounding-box detection into an active, decision-making autonomous security workflow.
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/11OvPrz7k9rW0X9Mjz-jJ-cfM9ZHZOIPf/view?usp=sharing)
+- 🏢 **AI Document Extraction System for Property Management**
+  - End-to-end AI automation platform built for HOA property management that ingests documents and extracts structured data (board members, residents, vendors, budgets, insurance) using Google Gemini AI.
+  - Implements a human-in-the-loop review queue where all AI-generated proposals are validated before writing to the database.
+  - Features real-time onboarding progress tracking, immutable audit logging, and JWT-based authentication.
+  - Built using a modern full-stack architecture with Next.js 15, FastAPI, Supabase, and Google Gemini AI.
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/14YcLMFtR9D-qfVVH5lu4bXj0qKxBAcRL/view?usp=sharing)
+- 🏀 **Real-Time Basketball Tracking & Automated Goal Counting System**
+  - Computer vision pipeline built to detect and track the basketball, players, and hoop rim across match footage.
+  - Implements custom bounding box and spatial intersection logic between the ball trajectory and the rim/net zone to accurately detect made shots and assign scores to the scoring team in real time.
+  - Built using YOLO for object detection, OpenCV for spatial geometry and video rendering, and Python for score aggregation.
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1QSFCmz6GIzeXXJ57Ti0wAbVMlvppd6OB/view?usp=sharing)
+- 🏐 **Beach Volleyball Match Analytics | Multi-Player Tracking, Pose Estimation & Ball Trajectory**
+  - Comprehensive computer vision pipeline for live match analysis using YOLO + multi-object tracking to assign persistent IDs and monitor active player counts.
+  - Implements real-time 17-point skeletal pose estimation to track biomechanical movements, stance, and court positioning during play.
+  - Features continuous ball detection and trajectory mapping with visual arc plotting and real-time coordinate logging.
+  - Integrates automated match score overlays and active court tracking using Python, OpenCV, and Deep Learning models.
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1jNSuFOarsQxZjPM3cuD3Xi2Wfa9MJ-Ny/view?usp=sharing)
 
 
 
@@ -125,7 +166,7 @@ Currently working at **HITAI (Remote)** where I develop real-time video analysis
 
 ### 🤝 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/muneebqureshi313/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/muneeb-ur-rehman313)
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge)](mailto:muneebqureshi313@gmail.com)
 
 ---
