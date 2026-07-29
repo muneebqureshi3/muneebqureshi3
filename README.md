@@ -1,51 +1,45 @@
-<h1>
-  Hi, I'm Muhammad Muneeb ur Rehman! 👋<br/>
-  Computer Vision Engineer | Applied AI, Data Science & GenAI Systems
-</h1>
+# Hi, I'm Muhammad Muneeb ur Rehman! 👋
 
+### **Senior Computer Vision & Spatial AI Engineer | Edge AI, Multi-Modal & Agentic Systems**
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-I'm a passionate **Computer Vision & Machine Learning Engineer** with hands-on experience in solving real-world problems through AI. My focus lies in building intelligent systems using deep learning for:
+I am an **End-to-End Computer Vision & Applied AI Engineer** specializing in real-time video analytics, multi-object tracking, and autonomous AI pipelines. My work bridges standard 2D perception with cutting-edge **Spatial AI**, **VLM Orchestration**, and **Agentic Workflows** to turn raw visual feeds into automated business and analytical intelligence.
 
-- 🎯 Object Detection & Tracking
-- 🎬 Action Recognition in Sports 
-- 🧍‍♂️ Pose Estimation & Gesture Recognition
-- 🚘 Vehicle Detection & ANPR
-- 🧠 AI-powered Video Analytics
+*   🎯 **Multi-Object Tracking & Spatial Analytics:** YOLOv8/v11, ByteTrack, TrackNet, Homographic Court/Zone Mapping
+*   🎬 **Sports Biomechanics & Action Recognition:** 13–17 Point Custom Skeletal Pose Estimation, SlowFast, I3D
+*   🤖 **Agentic & Multi-Modal Vision:** VLM/LLM Tool-Calling (Gemini, GPT-4o), Real-Time Video-to-Action Automation
+*   ⚡ **Production & Edge Deployment:** Real-Time Video Streaming (WebSockets, RTSP), FastAPI, Docker, Cloud & Edge Inference
 
-Currently working at **HITAI (Remote)** where I develop real-time video analysis pipelines for sports, action recognition, and athlete tracking.
-
----
-
-### 🛠️ Core Skills
-
-- **Computer Vision**: Object Detection, Image Segmentation, Pose Estimation, Gesture Recognition
-- **Deep Learning**: CNNs, I3D, LSTM, SlowFast, YOLOv5/v8, Transformers
-- **ML/DL Frameworks**: PyTorch, TensorFlow, Keras, OpenCV, MediaPipe
-- **Machine Learning**: XGBoost, SVM, Random Forest
-- **Data Science**: EDA, Feature Engineering, Preprocessing, Data Cleaning
-- **Cloud & Deployment**: Streamlit, Flask, Docker, AWS, GCP, Azure
-- **Languages**: Python (Pandas, NumPy, Sklearn, Seaborn, Matplotlib)
-- **Reporting & Visualization**: Power BI Dashboards
+Built **real-time sports analytics and athlete biomechanical pipelines** for global broadcast and combat sports at **Hit AI**, Helped enterprise clients automate surveillance and domain-specific visual reasoning.
 
 ---
 
-### 💼 Experience Highlights
+## 🛠️ Technical Ecosystem
 
-#### 🔹 Computer Vision & ML Engineer @ HITAI (2025–Present)
-- Built **SlowFast-based video analysis pipelines** for action recognition in combat sports.
-- Integrated **YOLO-Pose and MediaPipe** for detailed pose tracking and performance metrics.
-- Delivered end-to-end production-ready CV modules for athletes and coaches.
+*   **Computer Vision & Perception:** Object Detection, Multi-Object Tracking (ByteTrack/SORT), Skeletal Pose Estimation (MediaPipe, YOLO-Pose), Action Recognition, Homographic 2D/3D Projection, OCR (EasyOCR)
+*   **AI Architectures & GenAI:** CNNs, SlowFast, Transformers, Vision-Language Models (VLMs), Custom LLM Agents with Tool-Calling, RAG & Semantic Comparison Pipelines
+*   **ML / Deep Learning Frameworks:** PyTorch, PyTorch3D, Open3D, Ultralytics (YOLOv8/v11), MediaPipe, OpenCV, TensorFlow/Keras
+*   **Backend, Streaming & Edge:** FastAPI, WebSockets, RTSP/CCTV Pipelines, Docker, Streamlit, Next.js, Cloud Deployments (AWS, GCP, Supabase)
+*   **Languages & Tooling:** Python (NumPy, Pandas, Scikit-Learn), SQL, Git, REST APIs, CI/CD Pipelines
 
-#### 🔹 Freelance CV/ML Engineer @ Fiverr & Upwork
-- Developed gesture recognition tools, vehicle detection pipelines, and OCR apps using **YOLO**, **OpenCV**, and **Deep Learning** models.
-- Delivered real-time apps using **Streamlit**, **Docker**, and **Flask APIs**.
+---
 
-#### 🔹 AI Consultant via LinkedIn Projects
-- Completed ML/CV consulting for global clients — including model fine-tuning, vision APIs, and inference optimization.
+## 💼 Experience Highlights
+
+### 🔹 **Computer Vision & AI Engineer | Hit AI (UK — Remote)**  
+*2024 – Present*
+*   Architected end-to-end Computer Vision pipelines for sports analytics, action recognition, and multi-player tracking across broadcast footage.
+*   Implemented **YOLO-Pose** and **MediaPipe** for high-precision athlete biomechanics, velocity curves, and positional heatmaps mapped via homographic projection.
+*   Engineered real-time **SlowFast** deep learning models for combat sports action recognition and automated performance evaluation.
+
+### 🔹 **Lead Applied AI & Computer Vision Consultant | Global B2B & Freelance (Upwork / LinkedIn)**  
+*2023 – 2024*
+*   Designed and deployed real-time **AI Surveillance & Intrusion Detection Systems** for commercial retail, integrating custom polygon zones, WebSocket alerts, and pre/post-incident buffering.
+*   Built autonomous **Agentic Security Response Pipelines**, combining YOLO weapon detection with Gemini-powered tool-calling agents for live dispatch escalation.
+*   Delivered custom computer vision and Applied AI solutions across sports tech, retail loss prevention, ALPR/OCR, and document automation for global clients.
 
 ---
 
