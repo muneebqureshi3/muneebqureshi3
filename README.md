@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Muneeb ur Rehman! 👋
 
-### **Senior Computer Vision & Spatial AI Engineer | Edge AI, Multi-Modal & Agentic Systems**
+### **Senior Computer Vision & AI Engineer | Edge AI, Multi-Modal & Agentic Systems**
 
 ---
 
