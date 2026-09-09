@@ -146,7 +146,12 @@ Built **real-time sports analytics and athlete biomechanical pipelines** for glo
   - Features continuous ball detection and trajectory mapping with visual arc plotting and real-time coordinate logging.
   - Integrates automated match score overlays and active court tracking using Python, OpenCV, and Deep Learning models.
   - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1jNSuFOarsQxZjPM3cuD3Xi2Wfa9MJ-Ny/view?usp=sharing)
-
+- 🎾 **Real-Time Padel Analytics & 3D Digital Twin**
+  - End-to-end, sensor-less computer vision pipeline built to extract broadcast-ready match metrics and true 3D kinematics from a single standard camera feed.
+  - Implements zero-shot tracking for 4 players and utilizes dynamic homography to map camera space onto a 2D digital twin radar for real-time tactical positioning and distance tracking.
+  - Features advanced trajectory recovery to calculate true ball physics (clocking speeds up to 118.6 km/h), automated event detection (bounces, in/out calls), and advanced shot classification (volleys, smashes, lobs).
+  - Built using YOLO/pose models for detection, Viterbi trajectory optimization for fast-moving object tracking, and OpenCV/Python for spatial geometry and metric rendering.
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1xQ7av19cJVQmUpNJy4iiMKwwIEV-nMJe/view?usp=sharing)
 
 
 
