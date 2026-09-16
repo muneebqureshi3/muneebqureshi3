@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Muneeb ur Rehman! 👋
 
-### **Senior Computer Vision & AI Engineer | Edge AI, Multi-Modal & Agentic Systems**
+### **Senior Computer Vision & AI Engineer | Real-Time Video Analytics | Turning Ideas into Reality**
 
 ---
 
@@ -40,6 +40,22 @@ Built **real-time sports analytics and athlete biomechanical pipelines** for glo
 *   Designed and deployed real-time **AI Surveillance & Intrusion Detection Systems** for commercial retail, integrating custom polygon zones, WebSocket alerts, and pre/post-incident buffering.
 *   Built autonomous **Agentic Security Response Pipelines**, combining YOLO weapon detection with Gemini-powered tool-calling agents for live dispatch escalation.
 *   Delivered custom computer vision and Applied AI solutions across sports tech, retail loss prevention, ALPR/OCR, and document automation for global clients.
+
+---
+
+## 🏆 What Industry Leaders Say
+
+* *"What distinguishes Muneeb is that his responsibility does not end at model training. He consistently owns the full path to production... engineering for live streaming constraints rather than offline benchmark conditions alone."*
+* **— Ugenteraan Manogaran, Lead Computer Vision Engineer @ HIT AI**
+
+* *"He has taken ownership of entire systems, from training models to production-ready deployment, worked on hard computer vision problems, managed complex pipelines and delivered under pressure."*
+* **— Phill Richardson, Fractional CTO & IT Consultant**
+
+* *"Muneeb doesn't simply say 'yes' to everything — he clearly explains technical limitations, challenges assumptions when needed, and proposes practical solutions. I would definitely recommend Muneeb for advanced computer vision, AI, tracking, and analytics projects."*
+* **— Simon, Independent Enterprise Client (Sports Analytics & CV)**
+
+* *"He is the kind of engineer who takes ownership of the full lifecycle of a model, from training through to evaluation... ensuring that the models we worked with were not only functional but properly validated and production-ready."*
+* **— Saeed Shafiee Sabet, AI Advisor @ HIT AI & Lead ML Engineer @ Codento**
 
 ---
 
