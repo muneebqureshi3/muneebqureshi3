@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Muneeb ur Rehman! 👋
+# Hi, I'm Muneeb! 👋
 
 ### **Senior Computer Vision & AI Engineer | Real-Time Video Analytics | Turning Ideas into Reality**
 
