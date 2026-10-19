@@ -168,6 +168,14 @@ Built **real-time sports analytics and athlete biomechanical pipelines** for glo
   - Features advanced trajectory recovery to calculate true ball physics (clocking speeds up to 118.6 km/h), automated event detection (bounces, in/out calls), and advanced shot classification (volleys, smashes, lobs).
   - Built using YOLO/pose models for detection, Viterbi trajectory optimization for fast-moving object tracking, and OpenCV/Python for spatial geometry and metric rendering.
   - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1xQ7av19cJVQmUpNJy4iiMKwwIEV-nMJe/view?usp=sharing)
+- 🎥 **Ask Your Footage — AI-Powered Video Search & Evidence-Grounded Q&A**
+  - Built an end-to-end video intelligence system that answers plain-English questions about surveillance footage with timestamped, citable evidence instead of guesses.
+  - Indexes footage once into a structured event log using Gemini's video understanding, then layers a YOLO + tracking pipeline on top for live bounding boxes over every tracked person and vehicle.
+  - Implements a strict grounding rule: every answer cites the exact event(s) it's drawn from, and the system explicitly declines to answer when there's no supporting evidence in the footage.
+  - Validated against a human-labeled research dataset (VIRAT) — indexed event timestamps matched ground-truth annotations within 1–2 seconds.
+  - Built using Python, Gemini (video understanding + reasoning), YOLO (detection/tracking), Flask, and a custom real-time dashboard (JS/Canvas).
+  - 📽️ [Watch Demo Video](https://drive.google.com/file/d/1Oc8E5cKbqZJVVMelWPgv4-aPHyHmbvj9/view?usp=sharing)
+
 
 
 
